@@ -1,5 +1,24 @@
 // Arrow functions
 
+// Postać funckcji EC5 poniżej zamieniamy na formę EC6
+function (a, b, c) {
+    // line 1
+    // line 2
+} 
+
+// EC6
+
+// Jeśli jeden argument oraz jedna linia kodu
+(a) => // line 1
+
+// Jeśli wiele argumentów oraz wiele linii kodu
+(a, b, c) => {
+    // line 1
+    // line 2
+}
+
+
+
 // ES5
 // var box5 = {
 //     color: 'green',
